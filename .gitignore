@@ -1,3 +1,6 @@
+# DBT spec files until credentials are hidden
+*.dbtspec
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
